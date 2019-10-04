@@ -9,4 +9,6 @@ Integrantes:
 - Johan Sebastián Pérez (20161020055)
 
 
+Mapa mental programacion estructurada:
+
 ![alt text](https://github.com/InsertCreativeNameHere/Modelos-de-programacion-2/blob/Mapa-Mental-y-ejercicios/Mapa%20mental%20programacion%20estructurada.jpeg?raw=true)
